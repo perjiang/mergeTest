@@ -14,5 +14,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("模拟远程分支版本更快");
+        int i = 10;
     }
 }
