@@ -13,6 +13,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("本地修改");
+        System.out.println("模拟远程分支版本更快");
     }
 }
