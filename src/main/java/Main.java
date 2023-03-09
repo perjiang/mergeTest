@@ -13,6 +13,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println(“”dsfasfadf);
+        System.out.println("远程直接修改");
     }
 }
