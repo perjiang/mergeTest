@@ -13,10 +13,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        adfadsfasdf
-        System.out.println("模拟远程分支版本更快=1=2");
-        int i = 10;
-
-        System.out.println("mac mini push test");
+        System.out.println("build");
     }
 }
